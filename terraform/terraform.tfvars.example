@@ -1,0 +1,8 @@
+project_name = "lab"
+environment  = "dev"
+location     = "eastasia"
+
+tags = {
+  owner     = "HeiChan"
+  managedBy = "Terraform"
+}
