@@ -1,5 +1,6 @@
 # Azure Terraform Lab
 
+![Terraform CI](https://github.com/ChanHei419/azure-terraform-lab/actions/workflows/terraform-ci.yml/badge.svg)
 ![Terraform](https://img.shields.io/badge/Terraform-1.7+-844FBA?logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
